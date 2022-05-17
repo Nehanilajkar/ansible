@@ -1,5 +1,9 @@
-ec2-user@3.91.187.211
-ubuntu@52.87.182.38
-ubuntu@3.91.185.240
-ubuntu@54.160.219.126
+[web_servers]
+ubuntu@3.94.111.244
+ubuntu@54.160.185.11
 
+[db_servers]
+ubuntu@3.86.26.198
+
+[file_servers]
+ec2-user@54.160.186.136
